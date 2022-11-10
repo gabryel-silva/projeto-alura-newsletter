@@ -5,3 +5,5 @@
 
 **Treinamento**
 >- Tailwind css: Estilizando sua página com classes utilitarias.
+
+**[Link do projeto | Alura-Newsletter](https://projeto-alura-newsletter-rho.vercel.app/)**
